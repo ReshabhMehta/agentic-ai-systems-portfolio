@@ -27,6 +27,18 @@ Some underlying work that informed this portfolio was developed in professional 
 - **Feedback Layer**  
   Generates adaptive outputs and updates system behaviour
 
+
+Applications:
+1)Real-time workflow automation
+2)Multi-agent coordination systems
+3)Human-in-the-loop AI systems
+
+Accessibility and transport assistance systems
+Future Work:
+1)Multi-agent communication protocols
+2)Real-time deployment environments
+3)Integration with live data systems
+
 ## Example Decision Logic
 
 ```python
