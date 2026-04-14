@@ -39,6 +39,10 @@ Future Work:
 2)Real-time deployment environments
 3)Integration with live data systems
 
+## Summary
+
+This portfolio reflects my approach to building agentic AI systems that are not only technically sound, but also practical, scalable, and aligned with real-world operational needs.
+
 ## Example Decision Logic
 
 ```python
@@ -48,3 +52,7 @@ def decision_agent(confidence_score):
     elif confidence_score < 0.75:
         return "PROBE"
     return "PROGRESS"
+
+
+
+
